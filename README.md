@@ -4,14 +4,14 @@
 
 ## Favourite color :
 
-- Black
+- **Black**
 
 ## Favourite language :
 
-- English
+- **English**
 
 ## List of your favourite restaurants :
 
-- Thai Tiger Amsterdam, Netherlands
-- Taj India Bonn, Germany
-- And many more... :)
+- **Thai Tiger Amsterdam, Netherlands**
+- **Taj India Bonn, Germany**
+- **And many more... :)**
